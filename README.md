@@ -3,7 +3,7 @@ cli gui for pyquery
 
 personal scraper project
 
-TODO:documentation and codecleanup
+TODO: documentation and codecleanup
 
 Usage Example:
 
