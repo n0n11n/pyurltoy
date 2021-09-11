@@ -1,5 +1,5 @@
 # pyurltoy
-cli gui for pyquery
+cli for pyquery
 
 personal scraper project
 
